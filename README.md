@@ -30,7 +30,7 @@ It includes user login, registration, and protected routes using Redux for state
 
 ```bash
 
-git clone <repo-link>
+git clone <https://github.com/tapasisamal/react-auth-dashboard>
 
 cd project-name
 
